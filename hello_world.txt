@@ -3,4 +3,11 @@ test
 2
 3
 
+memorizing git commands
+"git status" gets the current status from git.
+"git commit -m" commits the changes but doesn't update the -m adds describing what you have done to make this snapshot different
+"git push" updates all the changes made in local with remote known as orinin/main.
+"git add ." adds all all files in the current directory and all subsequent directories to the staging area.
+"git log" log history.
+"git clone" creates a local copy.
 you have reached the bottom of the text page. 
